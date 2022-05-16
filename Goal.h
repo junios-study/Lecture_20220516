@@ -1,5 +1,7 @@
 #pragma once
-class Goal
+#include "Actor.h"
+
+class Goal : public AActor
 {
 };
 
